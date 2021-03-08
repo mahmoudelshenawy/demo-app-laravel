@@ -1,0 +1,1 @@
+<img src="{{$image_path}}" alt="image_path" width="40" height="40">
